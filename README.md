@@ -2,7 +2,7 @@
   The purpose of this project is to create a skiplist for production.
 
 ## Building
-  This project dependences Google gtest for unit test, so first install it.
+  This project relies on Google gtest for unit testing, so first install it.
   - mkdir build && cd build
   - cmake ..
   - make
